@@ -1,0 +1,7 @@
+@font-face {
+font-family: Vazir_Bold;
+src: url('/assets/css/Vazir-Bold.eot');
+src: url('/assets/css/Vazir-Bold.eot') format('embedded-opentype'), url('/assets/css/Vazir-Bold.woff') format('woff'), url('/assets/css/Vazir-Bold.woff2') format('woff2'), url('/assets/css/Vazir-Bold.ttf') format('truetype');
+font-style: normal;
+font-weight: bold;    
+}
